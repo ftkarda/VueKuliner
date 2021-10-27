@@ -1,4 +1,4 @@
-# belajarvue
+# Kuliner
 
 ## Project setup
 ```
